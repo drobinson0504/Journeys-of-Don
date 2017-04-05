@@ -1,0 +1,32 @@
+<style>
+* {
+   font-family:  ‘Droid Sans’, sans-serif;
+}
+
+
+body,td,th {
+  font-family: "Droid Sans";
+  font-size: 12pt;
+  font-weight: bold;
+}
+body {
+opacity:  1.0;
+margin:  auto;
+}
+
+h1 {border-style:  solid;}
+
+p.image {
+-moz-box-shadow:  5px 5px 5px #777777;
+-ms-box-shadow:  5px 5px 5px #777777;
+-webkit-box-shadow:  5px 5px 5px #777777;
+-o-box-shadow:  5px 5px 5px #777777;
+box-shadow:  5px 5px 5px #777777;
+margin: 40px 40px 50px 50px;
+width:  100px;
+height:  100px;
+}
+
+img {
+	border-style:  solid;
+}
