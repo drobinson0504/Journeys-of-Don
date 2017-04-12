@@ -94,7 +94,7 @@ footer {
 
 }
 
-@media (max-width:  950px) {
+@media (max-width:  1150px) {
 	.image, .image2, .image3, .image4 {
 	position: relative;
     display: inline-block;
@@ -121,7 +121,7 @@ footer {
 	  position:  relative;
 	  display:  inline-block;
 	  float:  left;
-	  margin:  20px 80px;
+	  margin:  20px 90px;
 	  vertical-align: text-bottom;
 	  z-index: 1;
 
@@ -143,7 +143,7 @@ footer {
    	  display:  inline-block;
    	  text-align: center;
    	  padding-right:  100px;
-   	  margin: 20px 60px;
+   	  margin: 20px 120px;
    	  position:  relative; 
    	
     } 
